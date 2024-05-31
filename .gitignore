@@ -1,0 +1,5 @@
+# No Tracking
+bin
+obj
+.env
+node_modules
